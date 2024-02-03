@@ -1,8 +1,9 @@
-# Nama Proyek
+# ARCHANABERRYWSPP/BAILEYS
+# Achana Berry WebSocket C++ Baileys
 
-![Logo Proyek](link_gambar_logo.png)
+![Archana Berry](link_gambar_logo.png)
 
-Deskripsi singkat proyek Anda di sini.
+Archana Berry WebSocket C++ Baileys adalah perpustakaan yang powerful dan user-friendly untuk pengembangan aplikasi C++. Dengan antarmuka yang intuitif dan kinerja optimal, Baileys mempercepat proses pengembangan Anda tanpa mengorbankan kehandalan.
 
 ## Archana Berry WebSocket C++
 
@@ -14,11 +15,18 @@ Deskripsi singkat proyek Anda di sini.
 - Fitur 2
 - Fitur 3
 
+## Cara pemperbarui program
+Anda harus menuliskan seperti ini
+```
+$> make
+```
+
+secara otomatis akan dikompilasi dan mengupdate program dari kode program yang anda buat sebelumnya.
+
 ## Penggunaan
 
 Berikut adalah contoh penggunaan sederhana:
 
 ```cpp
 #include <archanaberrywspp/baileys.hpp>
-
 // Code example here

@@ -1,13 +1,13 @@
-# ARCHANABERRYWSPP/BAILEYS
-# Achana Berry WebSocket C++ Baileys
+# ARCHANABERRYWAWSPP/BAILEYS
+# Achana Berry WhatsApp WebSocket C++ Baileys
 
-![Archana Berry](archanaberry/abwspp.png)
+![Archana Berry](archanaberry/abwawspp.png)
 
-Archana Berry WebSocket C++ Baileys adalah perpustakaan yang powerful dan user-friendly untuk pengembangan aplikasi C++. Dengan antarmuka yang intuitif dan kinerja optimal, Baileys mempercepat proses pengembangan Anda tanpa mengorbankan kehandalan.
+Archana Berry WhatsApp WebSocket C++ Baileys adalah perpustakaan untuk berkomunikasi program client WhatsApp ke server dengan websocket C++ secara realtime yang powerful dan user-friendly untuk pengembangan aplikasi C++. Dengan antarmuka yang intuitif dan kinerja optimal, Baileys mempercepat proses pengembangan Anda tanpa mengorbankan kehandalan, dan begitu mudah pengerjaan nya.
 
-## Archana Berry WebSocket C++
+## Archana Berry WhatsApp WebSocket C++
 
-[Archana Berry WebSocket C++](link_library) adalah sebuah library C++ yang memungkinkan akses ke WhatsApp API melalui WebSocket. Library ini dirancang untuk memudahkan pengembang dalam mengintegrasikan fitur WhatsApp ke dalam aplikasi mereka menggunakan bahasa pemrograman C++.
+[Archana Berry WhatsApp WebSocket C++](link_library) adalah sebuah library C++ yang memungkinkan akses ke WhatsApp API melalui WebSocket. Library ini dirancang untuk memudahkan pengembang dalam mengintegrasikan fitur WhatsApp ke dalam aplikasi mereka menggunakan bahasa pemrograman C++.
 
 ### Fitur Utama
 
@@ -16,7 +16,7 @@ Archana Berry WebSocket C++ Baileys adalah perpustakaan yang powerful dan user-f
 - Fitur 3
 
 ## Cara pemperbarui program
-Anda harus menuliskan seperti ini
+Anda harus menuliskan seperti ini di terminal!
 ```
 $> make
 ```

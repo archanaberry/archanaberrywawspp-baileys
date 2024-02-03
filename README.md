@@ -1,7 +1,7 @@
 # ARCHANABERRYWSPP/BAILEYS
 # Achana Berry WebSocket C++ Baileys
 
-![Archana Berry](link_gambar_logo.png)
+![Archana Berry](wsppberry.png)
 
 Archana Berry WebSocket C++ Baileys adalah perpustakaan yang powerful dan user-friendly untuk pengembangan aplikasi C++. Dengan antarmuka yang intuitif dan kinerja optimal, Baileys mempercepat proses pengembangan Anda tanpa mengorbankan kehandalan.
 

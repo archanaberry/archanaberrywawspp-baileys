@@ -1,4 +1,5 @@
 # ARCHANABERRYWAWSPP/BAILEYS
+![Archana Berry WhatsApp Websocket C++ Baileys](archanaberry/archanaberry-icon.png)
 # Achana Berry WhatsApp WebSocket C++ Baileys
 
 ![Archana Berry](archanaberry/abwawspp.png)

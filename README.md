@@ -12,7 +12,7 @@ Archana Berry WhatsApp WebSocket C++ Baileys adalah perpustakaan untuk berkomuni
 
 ### Fitur Archana Berry Baileys 
 
-- Autentikasi Multi-Device
+- Autentikasi Multi Perangkat (Multi-Device)
 - Tidak Memerlukan Selenium atau Chromium
 - Instalasi yang stabil
 - Kirim pesan broadcast
@@ -46,6 +46,26 @@ Archana Berry WhatsApp WebSocket C++ Baileys adalah perpustakaan untuk berkomuni
 - Edit pesan
 - Enkripsi pesan
 - Dekripsi pesan
+
+## Status Pengembangan Fitur
+- Perlu diingat saat ini masih tahap pengembangan mungkin belum sepenuhnya stabil TwT
+| Fitur  | Status |
+| ------------- | ------------- |
+| Login lewat ponsel | âœ… |
+| Multi Perangkat | âœ… |
+| Membuat Saluran | âœ… |
+| Ikuti saluran | âœ… |
+| Batal ikuti saluran | âœ… |
+| Kirim pesan polling | âœ… |
+| Baca status cerita | âœ… |
+| Dapatkan status cerita | âœ… |
+| Kirim panggilan | âœ… |
+| Terima panggilan | âœ… |
+| Tolak panggilan | âœ… |
+| Dapatkan permintaan anggota | âœ… |
+| Terima permintaan anggota | âœ… |
+| Tolak permintaan anggota | âœ… |
+| Dan lain lain... | âœ… |
 
 ## Cara pemperbarui program
 Anda harus menuliskan seperti ini di terminal!

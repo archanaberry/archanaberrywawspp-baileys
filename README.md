@@ -31,6 +31,21 @@ Archana Berry WhatsApp WebSocket C++ Baileys adalah perpustakaan untuk berkomuni
 - Kirim video bulat
 - Ubah poto profile
 - Ubah bio profile
+- Masuk via ponsel
+- Membuat saluran
+- Ikuti saluran
+- Batal ikuti saluran
+- Kirim panggilan
+- Terima panggilan
+- Tolak panggilan
+- Dapatkan permintaan anggota
+- Terima permintaan anggota
+- Tolak permintaan anggota
+- Kirim pesan polling
+- Hapus pesan
+- Edit pesan
+- Enkripsi pesan
+- Dekripsi pesan
 
 ## Cara pemperbarui program
 Anda harus menuliskan seperti ini di terminal!

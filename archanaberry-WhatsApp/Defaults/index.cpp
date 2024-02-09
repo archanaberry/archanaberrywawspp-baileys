@@ -131,7 +131,6 @@ struct SocketConfig {
 
 const SocketConfig DEFAULT_CONNECTION_CONFIG = {
     // Initialize members with appropriate values
-    // ...
 };
 
 // Assuming MediaType is an enum or class that has been defined elsewhere in your C++ code.

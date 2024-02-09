@@ -49,6 +49,7 @@ Archana Berry WhatsApp WebSocket C++ Baileys adalah perpustakaan untuk berkomuni
 
 ## Status Pengembangan Fitur
 - Perlu diingat saat ini masih tahap pengembangan mungkin belum sepenuhnya stabil TwT
+
 | Fitur  | Status |
 | ------------- | ------------- |
 | Login lewat ponsel | âœ… |

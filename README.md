@@ -24,7 +24,7 @@ Archana Berry WhatsApp WebSocket C++ Baileys adalah perpustakaan untuk berkomuni
 - Kirim audio
 - Kirim catatan suara (Voice Note/VN)
 - Kirim stiker
-- Kirim dokumen apapun format nya hingga 1Gb
+- Kirim dokumen apapun format nya hingga 2Gb (2000Mb not 2048Mb) kurang segitu lebih baik!
 - Membaca pesan masuk secara private maupun group
 - Kirim pesan bisnis
 - Kirim alamat peta

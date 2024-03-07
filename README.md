@@ -1,6 +1,5 @@
-<p align="center"><img src="banner.png" alt="banner"></p>
-
-<h1 align="center">Archana Berry WhatsApp WebSocket C++ Baileys</h1>
+//<p align="center"><img src="banner.png" alt="banner"></p>
+//<h1 align="center">Archana Berry WhatsApp WebSocket C++ Baileys</h1>
 
 # ARCHANABERRYWAWSPP/BAILEYS
 ![Archana Berry WhatsApp Websocket C++ Baileys](archanaberry/archanaberry-icon.png)

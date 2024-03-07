@@ -1,9 +1,6 @@
-<p align="center"><img src="https://massgrave.dev/images/logo_small.png" alt="MAS Logo"></p>
+<p align="center"><img src="banner.png" alt="banner"></p>
 
-<h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
-
-<p align="center">A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</p>
-<hr>
+<h1 align="center">Archana Berry WhatsApp WebSocket C++ Baileys</h1>
 
 # ARCHANABERRYWAWSPP/BAILEYS
 ![Archana Berry WhatsApp Websocket C++ Baileys](archanaberry/archanaberry-icon.png)

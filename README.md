@@ -1,4 +1,3 @@
-<p align="center"><img src="archanaberry/abwawspp.png" alt="archanaberry"></p>
 
 # ARCHANABERRYWAWSPP/BAILEYS
 ![Archana Berry WhatsApp Websocket C++ Baileys](archanaberry/archanaberry-icon.png)
